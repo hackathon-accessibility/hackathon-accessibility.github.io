@@ -1,1 +1,1 @@
-# handbook
+# Accessibility Handbook for Event Organizers
