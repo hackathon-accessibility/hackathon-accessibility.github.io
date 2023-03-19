@@ -20,10 +20,10 @@ _ Provide multiple ways for attendees to communicate with event organizers (e.g.
 VENUE PREPARATION
 _ Ensure the availability of assistants during the event   
 _ Prepare aiding tools according to the disability (e.g. device etc.)  
-_ Have a clear navigation plan
-_ Checking for potential obstacles and adjusting options (availability of elevators, ramps, accessible restrooms, sufficient lightning, signs, etc.)
-_ Provide reserved seating corresponding to the type of disability, accessible transportation, and accomodation
-_ Notify organizers, staff, and speakers about the necessary steps. Applying sensitivity, eventually creating a code of conduct and providing it to attendees
+_ Have a clear navigation plan  
+_ Checking for potential obstacles and adjusting options (availability of elevators, ramps, accessible restrooms, sufficient lightning, signs, etc.)  
+_ Provide reserved seating corresponding to the type of disability, accessible transportation, and accomodation  
+_ Notify organizers, staff, and speakers about the necessary steps. Applying sensitivity, eventually creating a code of conduct and providing it to attendees  
 _ Verify functionality of materials and tools - user testing  
 
 
