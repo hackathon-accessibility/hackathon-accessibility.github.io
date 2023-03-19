@@ -17,7 +17,7 @@ _ Discuss costs with the financial department
 _ Provide multiple ways for attendees to communicate with event organizers (e.g. email, phone, text, message)  
 
 
-VENUE PREPARATION
+VENUE PREPARATION  
 _ Ensure the availability of assistants during the event   
 _ Prepare aiding tools according to the disability (e.g. device etc.)  
 _ Have a clear navigation plan  
