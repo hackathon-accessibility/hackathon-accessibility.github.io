@@ -27,7 +27,7 @@ _ Notify organizers, staff, and speakers about the necessary steps. Applying sen
 _ Verify functionality of materials and tools - user testing  
 
 
-EVENT MATERIALS 
+EVENT MATERIALS   
 _ Adding captions or transcripts for audio or video content.  
 _ Checking if formats and standards are compatible with the different types of devices ( visual readers, browsers, braille readers)  
 _ Discuss the possibility of sharing conference materials in advance  
