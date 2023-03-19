@@ -1,30 +1,65 @@
 ## Challenge
 
-This handbook is a guide to help bridge the gap between the world of ever advancing technology and people with disabilities. It is the mission of this handbook to provide helpful methods to give accessibility to disabled people in the tech world. 
+Introduction: Creating an inclusive environment is a key for planning a successful event. This checklist provides the necessary steps to ensure access for all attendees. While this list demonstrates a handful of situations for disabled people, specific assistance can be provided at the request of the individual. Be sure to gather all the necessary information from attendees prior to the event.
 
-It is important that despite what you may have heard, you must not assume that all disabled are the same. They’re unique and it is in the best interest to approach their needs accordingly by directly asking them how you could assist them. 
 
-Part 2 
 
-Immobile 
+General recommendations on how to overcome or minimize barriers and challenges:
 
-The inability to move without the use of a wheelchair or like devices.
+Before events:
 
-2.1 Wheelchairs
+Incorporate questions about special needs in the registration form
+To create a complete form to identify and understand special requirements
+To assign a responsible person to assist people with special requirements
+To ensure the availability of the responsible person to help during the event
+To ensure having direct contact with a disabled person and communicate their needs
+To discuss costs with the financial department
+To prepare aids/ tools according to disability {device etc.}
+To ensure clear navigation
+Add captions or transcripts for audio or video content.
+To check if formats and standards are compatible with the different types of devices ( visual readers, browsers, braille readers)
+To discuss the possibility of sharing conference materials in advance 
+To check for potential obstacles and barriers and adjusting options (availability of elevators, ramps, accessible restrooms, sufficient lightning, signs, etc.)
+To provide reserved seating corresponding to the type of disability, accessible transportation, and accomodation
+To notify organizers, staff, and speakers about necessary steps, sensitivity, eventually creating a code of conduct and provide it to attendees 
+To provide multiple ways for attendees to communicate with event organizers (e.g. email, phone, text, message)
+To verify functionality of measurements and tools - user testing 
 
-Wheelchairs are used to move people who are immobile. Due to the nature of a wheel chair, it is only accessible to areas with a flat surface and make it difficult to traverse any sort of incline. 
 
-2.2 Accessibility to Immobility
+During events:
 
-In order to create an inclusive environment for people who are immobile, it is imperative to have the venue such as a tech event on the ground floor. If this isn’t an option, make sure there are elevators accessible for wheel chair access. 
+Have somebody in the staff that can handle unexpected situations that can occur during the event ( ex : if someone is having difficulties reading the slides, have the possibility to change the seating) 
+Ensure all communication channels (e.g. website, social media, flyers) are accessible to people with disabilities (e.g. alt text, captions, braille).
 
-Part 3 
+After event:
+To request feedback from attendees as a lessons learned and concept for improvement (try this after, maybe “attendees”: to further improve the special service)
 
-Visual Impairment
+Disabilities/ impairment categories {subchapters with recommendations}:
 
-A disability allowing either partial or a complete absence of sight. 
+Visual impairment
+Proper formatting for assistive technologies {alternative texts for images and videos, heading tags to structure content (text is accessible via keyboard navigation)}
+Request to follow rules for creating presentations (high contrast ratio)
+Large and legible text, large print or braille
+Responsive designs (different screen sizes)
+Assistive technology support and compatibility
+Taking into consideration seat reservations
+User testing
 
-3.1 
+Hearing impairment
+Text-based transcript for the audio content and closed captioning
+Signs for alerts and notifications
+Text-based chat
+Language interpreters
+User testing
 
-3.2 this ist a test to show how github  works
+Motor disabilities
+Venue accessibility (see general recommendation)
+Keyboard accessibility (shortcuts enabled)
+Taking into consideration seat reservation
+User testing
+
+
+4. Other Recommended Sources
+Visit the example form
+Download the checklist
 
