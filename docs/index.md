@@ -1,27 +1,25 @@
 ## Challenge
 
-Introduction: Creating an inclusive environment is a key for planning a successful event. This checklist provides the necessary steps to ensure access for all attendees. While this list demonstrates a handful of situations for disabled people, specific assistance can be provided at the request of the individual. Be sure to gather all the necessary information from attendees prior to the event.
+Creating an inclusive environment is a key for planning a successful event. This checklist provides the necessary steps to ensure access for all attendees. While this list demonstrates a handful of situations for disabled people, specific assistance can be provided at the request of the individual. Be sure to gather all the necessary information from attendees prior to the event.
 
+BEFORE THE EVENT
 
+In this section, the checklist covers general accessibility recommendations for tech events. 
 
-General recommendations on how to overcome or minimize barriers and challenges:
-
-Before events:
-
-Incorporate questions about special needs in the registration form
-To create a complete form to identify and understand special requirements
-To assign a responsible person to assist people with special requirements
-To ensure the availability of the responsible person to help during the event
-To ensure having direct contact with a disabled person and communicate their needs
-To discuss costs with the financial department
-To prepare aids/ tools according to disability {device etc.}
-To ensure clear navigation
-Add captions or transcripts for audio or video content.
-To check if formats and standards are compatible with the different types of devices ( visual readers, browsers, braille readers)
-To discuss the possibility of sharing conference materials in advance 
-To check for potential obstacles and barriers and adjusting options (availability of elevators, ramps, accessible restrooms, sufficient lightning, signs, etc.)
-To provide reserved seating corresponding to the type of disability, accessible transportation, and accomodation
-To notify organizers, staff, and speakers about necessary steps, sensitivity, eventually creating a code of conduct and provide it to attendees 
+_ Incorporate questions about special needs in the registration form
+_ Create a complete form to identify and understand someone's special needs
+_ Assign an assistant to help people with special needs 
+_ Ensure the availability of assistants to aid during the event
+_ Ensure having direct contact with disabled individuals and communicate with them to satisfy their needs
+_ Discuss costs with the financial department
+_ Prepare aiding tools according to the disability {device etc.}
+_ Have a clear navigation plan
+_ Adding captions or transcripts for audio or video content.
+_ Checking if formats and standards are compatible with the different types of devices ( visual readers, browsers, braille readers)
+_ To discuss the possibility of sharing conference materials in advance 
+_ Checking for potential obstacles and adjusting options (availability of elevators, ramps, accessible restrooms, sufficient lightning, signs, etc.)
+_ To provide reserved seating corresponding to the type of disability, accessible transportation, and accomodation
+_ To notify organizers, staff, and speakers about the necessary steps. Applying sensitivity, eventually creating a code of conduct and providing it to attendees 
 To provide multiple ways for attendees to communicate with event organizers (e.g. email, phone, text, message)
 To verify functionality of measurements and tools - user testing 
 
