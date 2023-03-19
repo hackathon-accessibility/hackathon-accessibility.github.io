@@ -4,14 +4,19 @@ Creating an inclusive environment is a key for planning a successful event. This
 
 BEFORE THE EVENT
 
-In this section, the checklist covers general accessibility recommendations for tech events. 
+In this section, the checklist covers general accessibility recommendations for tech events.  
 
-_ Incorporate questions about special needs in the registration form  
-_ Create a complete form to identify and understand someone's special needs  
+
+REGISTRATION PROCESS 
+
+_ Incorporate questions about special needs in the registration form
+_ Create a complete form to identify and understand someone's special needs 
 _ Assign an assistant to help people with special needs  
-_ Ensure the availability of assistants to aid during the event  
-_ Ensure having direct contact with disabled individuals and communicate with them to satisfy their needs  
+_ Ensure having direct contact with disabled individuals and communicate with them to satisfy their needs
 _ Discuss costs with the financial department  
+
+VENUE PREPARATION
+_ Ensure the availability of assistants during the event   
 _ Prepare aiding tools according to the disability {device etc.}  
 _ Have a clear navigation plan  
 _ Adding captions or transcripts for audio or video content.  
