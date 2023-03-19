@@ -67,7 +67,3 @@ _ Taking into consideration seat reservation
 _ User testing  
 
 
-OTHER RECOMMENDED SOURCES  
-Visit the example form  
-Download the checklist  
-
