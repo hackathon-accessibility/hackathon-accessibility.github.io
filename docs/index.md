@@ -20,40 +20,40 @@ _ To discuss the possibility of sharing conference materials in advance
 _ Checking for potential obstacles and adjusting options (availability of elevators, ramps, accessible restrooms, sufficient lightning, signs, etc.)
 _ To provide reserved seating corresponding to the type of disability, accessible transportation, and accomodation
 _ To notify organizers, staff, and speakers about the necessary steps. Applying sensitivity, eventually creating a code of conduct and providing it to attendees 
-To provide multiple ways for attendees to communicate with event organizers (e.g. email, phone, text, message)
-To verify functionality of measurements and tools - user testing 
+_ To provide multiple ways for attendees to communicate with event organizers (e.g. email, phone, text, message)
+_ To verify functionality of materials and tools - user testing 
 
 
-During events:
+DURING THE EVENT
 
-Have somebody in the staff that can handle unexpected situations that can occur during the event ( ex : if someone is having difficulties reading the slides, have the possibility to change the seating) 
-Ensure all communication channels (e.g. website, social media, flyers) are accessible to people with disabilities (e.g. alt text, captions, braille).
+_ Prepare staff to manage unexpected situations that can occur during the event ( ex : difficulties accessing the slides, or adjusting the seating arrangement) 
+_ Ensuring all communication channels (e.g. website, social media, flyers) are available to people with disabilities (e.g. alt text, captions, braille).
 
-After event:
-To request feedback from attendees as a lessons learned and concept for improvement (try this after, maybe “attendees”: to further improve the special service)
+AFTER THE EVENT
+To request feedback from attendees to further improve the service of accessibility ( this can be done by surveys, or reviews of the event )
 
-Disabilities/ impairment categories {subchapters with recommendations}:
+DISABILITIES/IMPAIRMENT CATERGORIES {subchapters with recommendations per disability type}:
 
-Visual impairment
-Proper formatting for assistive technologies {alternative texts for images and videos, heading tags to structure content (text is accessible via keyboard navigation)}
-Request to follow rules for creating presentations (high contrast ratio)
-Large and legible text, large print or braille
-Responsive designs (different screen sizes)
-Assistive technology support and compatibility
-Taking into consideration seat reservations
+VISUAL IMPAIRMENT 
+_ Proper formatting for assistive technologies {alternative texts for images and videos, heading tags to structure content (text is accessible via keyboard navigation)}
+_ Request to follow rules for creating presentations (high contrast ratio)
+_ Large and legible text, large print or braille
+_ Responsive designs (different screen sizes)
+_ Assistive technology support and compatibility
+_ Taking into consideration seat reservations
 User testing
 
-Hearing impairment
-Text-based transcript for the audio content and closed captioning
-Signs for alerts and notifications
-Text-based chat
-Language interpreters
+HEARING IMPAIRMENT
+_ Text-based transcripts for the audio content and closed captioning
+_ Signs for alerts and notifications
+_ Text-based chat
+_ Sign language interpreters
 User testing
 
-Motor disabilities
-Venue accessibility (see general recommendation)
-Keyboard accessibility (shortcuts enabled)
-Taking into consideration seat reservation
+MOTOR DISABILITIES 
+_ Venue accessibility (see general recommendation)
+_ Keyboard accessibility (shortcuts enabled)
+_ Taking into consideration seat reservation
 User testing
 
 
