@@ -26,38 +26,38 @@ _ To verify functionality of materials and tools - user testing
 
 DURING THE EVENT
 
-_ Prepare staff to manage unexpected situations that can occur during the event ( ex : difficulties accessing the slides, or adjusting the seating arrangement) 
-_ Ensuring all communication channels (e.g. website, social media, flyers) are available to people with disabilities (e.g. alt text, captions, braille).
+_ Prepare staff to manage unexpected situations that can occur during the event ( ex : difficulties accessing the slides, or adjusting the seating arrangement)  
+_ Ensuring all communication channels (e.g. website, social media, flyers) are available to people with disabilities (e.g. alt text, captions, braille)  
 
-AFTER THE EVENT
-To request feedback from attendees to further improve the service of accessibility ( this can be done by surveys, or reviews of the event )
+AFTER THE EVENT  
+To request feedback from attendees to further improve the service of accessibility ( this can be done by surveys, or reviews of the event )  
 
-DISABILITIES/IMPAIRMENT CATERGORIES {subchapters with recommendations per disability type}:
+DISABILITIES/IMPAIRMENT CATERGORIES {subchapters with recommendations per disability type}:  
 
-VISUAL IMPAIRMENT 
-_ Proper formatting for assistive technologies {alternative texts for images and videos, heading tags to structure content (text is accessible via keyboard navigation)}
-_ Request to follow rules for creating presentations (high contrast ratio)
-_ Large and legible text, large print or braille
-_ Responsive designs (different screen sizes)
-_ Assistive technology support and compatibility
-_ Taking into consideration seat reservations
-User testing
+VISUAL IMPAIRMENT   
+_ Proper formatting for assistive technologies {alternative texts for images and videos, heading tags to structure content (text is accessible via keyboard navigation)}  
+_ Request to follow rules for creating presentations (high contrast ratio)  
+_ Large and legible text, large print or braille  
+_ Responsive designs (different screen sizes)  
+_ Assistive technology support and compatibility  
+_ Taking into consideration seat reservations  
+User testing  
 
-HEARING IMPAIRMENT
-_ Text-based transcripts for the audio content and closed captioning
-_ Signs for alerts and notifications
-_ Text-based chat
-_ Sign language interpreters
-User testing
+HEARING IMPAIRMENT  
+_ Text-based transcripts for the audio content and closed captioning  
+_ Signs for alerts and notifications  
+_ Text-based chat  
+_ Sign language interpreters  
+User testing  
 
-MOTOR DISABILITIES 
-_ Venue accessibility (see general recommendation)
-_ Keyboard accessibility (shortcuts enabled)
-_ Taking into consideration seat reservation
-User testing
+MOTOR DISABILITIES   
+_ Venue accessibility (see general recommendation)  
+_ Keyboard accessibility (shortcuts enabled)  
+_ Taking into consideration seat reservation  
+User testing  
 
 
-4. Other Recommended Sources
-Visit the example form
-Download the checklist
+OTHER RECOMMENDED SOURCES  
+Visit the example form  
+Download the checklist  
 
