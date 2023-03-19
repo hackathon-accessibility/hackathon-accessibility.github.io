@@ -19,3 +19,13 @@ My question is about:
   3.  something else, text field.
 ##### Option 2 results in
 Text field.
+________________________
+When someone chooses Mobility, a list appears of all measures for mobility in regard to accessibility. Top of the screen says:
+#### You chose mobility questions.
+Before you proceed, here is a list of measures we have taken to guarantee accessible mobility in and around the venue:
+- Venue is suitable to wheelchair users to move around
+- The toilets and showers are suitable for wheelchair users
+- etc.
+- etc.
+(This list needs to be completed, should be based on official accessibility guidelines for wheelchair users).
+
