@@ -6,7 +6,7 @@ BEFORE THE EVENT
 
 In this section, the checklist covers general accessibility recommendations for tech events. 
 
-Incorporate questions about special needs in the registration form.
+Incorporate questions about special needs in the registration form.  
 Create a complete form to identify and understand someone's special needs
 _ Assign an assistant to help people with special needs 
 _ Ensure the availability of assistants to aid during the event
