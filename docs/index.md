@@ -14,14 +14,14 @@ _ Ensure having direct contact with disabled individuals and communicate with th
 _ Discuss costs with the financial department  
 _ Prepare aiding tools according to the disability {device etc.}  
 _ Have a clear navigation plan  
-_ Adding captions or transcripts for audio or video content.
-_ Checking if formats and standards are compatible with the different types of devices ( visual readers, browsers, braille readers)
-_ To discuss the possibility of sharing conference materials in advance 
-_ Checking for potential obstacles and adjusting options (availability of elevators, ramps, accessible restrooms, sufficient lightning, signs, etc.)
-_ To provide reserved seating corresponding to the type of disability, accessible transportation, and accomodation
-_ To notify organizers, staff, and speakers about the necessary steps. Applying sensitivity, eventually creating a code of conduct and providing it to attendees 
-_ To provide multiple ways for attendees to communicate with event organizers (e.g. email, phone, text, message)
-_ To verify functionality of materials and tools - user testing 
+_ Adding captions or transcripts for audio or video content.  
+_ Checking if formats and standards are compatible with the different types of devices ( visual readers, browsers, braille readers)  
+_ To discuss the possibility of sharing conference materials in advance  
+_ Checking for potential obstacles and adjusting options (availability of elevators, ramps, accessible restrooms, sufficient lightning, signs, etc.)  
+_ To provide reserved seating corresponding to the type of disability, accessible transportation, and accomodation  
+_ To notify organizers, staff, and speakers about the necessary steps. Applying sensitivity, eventually creating a code of conduct and providing it to attendees  
+_ To provide multiple ways for attendees to communicate with event organizers (e.g. email, phone, text, message)  
+_ To verify functionality of materials and tools - user testing  
 
 
 DURING THE EVENT
