@@ -9,10 +9,10 @@ In this section, the checklist covers general accessibility recommendations for 
 
 REGISTRATION PROCESS  
 
-_ Incorporate questions about special needs in the registration form
-_ Create a complete form to identify and understand someone's special needs 
+_ Incorporate questions about special needs in the registration form  
+_ Create a complete form to identify and understand someone's special needs  
 _ Assign an assistant to help people with special needs  
-_ Ensure having direct contact with disabled individuals and communicate with them to satisfy their needs
+_ Ensure having direct contact with disabled individuals and communicate with them to satisfy their needs  
 _ Discuss costs with the financial department  
 
 VENUE PREPARATION  
