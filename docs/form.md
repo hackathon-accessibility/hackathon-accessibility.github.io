@@ -28,3 +28,35 @@ Before you proceed, here is a list of measures we have taken to guarantee access
 - etc.
 (This list needs to be completed, should be based on official accessibility guidelines for wheelchair users).
 
+## Example questions for your form
+These are example questions what could **hold somebody back from applying to participate** in a tech event.
+
+1. Is it possible to bring my assistance dog with me to the venu/ the accomodation?
+2. For people who are noise sensitive
+- are there silence separate rooms?
+- are there overear headsets?
+3. For people with privacy concerns - 3 ways to respect privacy:
+- stickers with "Do not touch"
+- dedicated T-Shirts (maybe with different colours)
+- lanyards with different colours
+4. For people who depend on assistance
+- in/ on a person
+- in a digital way
+- otherwise
+Possible solutions could be:
+- translator for sign language
+- Signall AI for sign language
+- Handtalk app
+- mobile translator for sign language
+5. all text (digital or print) should be
+- in great contrast WCAG
+- min 1.5 em line heigt 2./ AA
+- min 18 px (1.125 REM at 16 px base font)
+- short paragraphs & sentences
+- captions on presentations or videos
+- alternative text to images and other objects
+- signing and wayfinding in braille (on venue doors for example)
+### As a rule
+Communicate on eye level
+inclusion as an attitude
+involve people with various disabilities during the process of organising an event or in process of improvement
