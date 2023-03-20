@@ -49,3 +49,11 @@ Possible solutions could be:
 - Signall AI for sign language
 - Handtalk app
 - mobile translator for sign language
+5. all text (digital or print) should be
+- in great contrast WCAG
+- min 1.5 em line heigt 2./ AA
+- min 18 px (1.125 REM at 16 px base font)
+- short paragraphs & sentences
+- captions on presentations or videos
+- alternative text to images and other objects
+- signing and wayfinding in braille (on venue doors for example)
