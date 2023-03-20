@@ -29,3 +29,5 @@ Before you proceed, here is a list of measures we have taken to guarantee access
 - etc.
 (This list needs to be completed, should be based on official accessibility guidelines for wheelchair users).
 
+## Example questions for your form
+These are example questions what could hold somebody back from applying to participatin in a tech event.
