@@ -57,3 +57,7 @@ Possible solutions could be:
 - captions on presentations or videos
 - alternative text to images and other objects
 - signing and wayfinding in braille (on venue doors for example)
+### As a rule
+Communicate on eye level
+inclusion as an attitude
+involve people with various disabilities during the process of organising an event or in process of improvement
