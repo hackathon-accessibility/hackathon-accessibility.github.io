@@ -40,3 +40,12 @@ These are example questions what could **hold somebody back from applying to par
 - stickers with "Do not touch"
 - dedicated T-Shirts (maybe with different colours)
 - lanyards with different colours
+4. For people who depend on assistance
+- in/ on a person
+- in a digital way
+- otherwise
+Possible solutions could be:
+- translator for sign language
+- Signall AI for sign language
+- Handtalk app
+- mobile translator for sign language
