@@ -30,4 +30,13 @@ Before you proceed, here is a list of measures we have taken to guarantee access
 (This list needs to be completed, should be based on official accessibility guidelines for wheelchair users).
 
 ## Example questions for your form
-These are example questions what could hold somebody back from applying to participatin in a tech event.
+These are example questions what could **hold somebody back from applying to participate** in a tech event.
+
+1. Is it possible to bring my assistance dog with me to the venu/ the accomodation?
+2. For people who are noise sensitive
+- are there silence separate rooms?
+- are there overear headsets?
+3. For people with privacy concerns - 3 ways to respect privacy:
+- stickers with "Do not touch"
+- dedicated T-Shirts (maybe with different colours)
+- lanyards with different colours
