@@ -5,27 +5,26 @@ The form is based on the principle "Nothing for us, without us". The goal is for
 ### The meaning of "nothing for us, without us"
 If you don't live the experience of the target groups you wish to provide for, you risk that you make the wrong assumptions about people's needs. No matter how good the intention, you may end up doing and organizing things that are counterproductive.
 ## The form - basic technical design
-This is meant as a way to make you think of the way you can make your inventory. 
+This is meant as a way to make you think of the way you can make your inventory. Each question gives you the possibility to type in additional information into a textfield.
 ### Form name: Personal Event Configurator
 On click, a page appears with this description:
-"Hi, nice to see you here! We have (The rest is coming). You will be guided through the questionnaire. With your answers we can put our efforts in making this event as accessible and enjoyable to you as possible.
+"Hi, nice to see you here! We have (The rest is coming). You will be guided through the questionnaire. With your answers we can put our efforts in making this event as accessible and enjoyable to you as possible."
 #### Take your pick
 1.  I have accessibility questions
 2.  I have others questions
-##### Option 1 results in
-My question is about:
+##### Option 1
+Option 1 allows you to choose from:
   1.  Mobility, traveling to the venue
   2.  Hospitality, staying at the venue
   3.  something else, text field.
-##### Option 2 results in
-Text field.
+##### Option 2
+Option 2 allows you to type in new information which is not covered by the other options into a text field.
 ________________________
-When someone chooses Mobility, a list appears of all measures for mobility in regard to accessibility. Top of the screen says:
+When someone chooses Mobility, a list of all measures for mobility in regard to accessibility appears. The description says:
 #### You chose mobility questions.
 Before you proceed, here is a list of measures we have taken to guarantee accessible mobility in and around the venue:
 - Venue is suitable to wheelchair users to move around
 - The toilets and showers are suitable for wheelchair users
-- etc.
 - etc.
 (This list needs to be completed, should be based on official accessibility guidelines for wheelchair users).
 
